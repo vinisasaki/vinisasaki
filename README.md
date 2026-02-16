@@ -7,7 +7,7 @@
 🌱 Trying to use this GitHub as my project portfolio.
 
 🎯 My goal is to learn by building, make plenty of mistakes, and share what works — and what doesn't too, why not?
-
+<!--
 ---
 
 <div>
@@ -18,7 +18,7 @@
 
 ---
 
-<!--
+
 **vinisasaki/vinisasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
